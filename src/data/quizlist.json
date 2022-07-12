@@ -1,0 +1,1730 @@
+[
+    {
+        "name": "Geneal Knowledge Quiz",
+        "bgColor" : "#ffccff",
+        "questions": [
+            {
+                "question": "MS-Word is an example of ____",
+                "options": [
+                    {
+                        "optionText": " An operating system",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "A processing device",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Application software",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " An input device",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "National Income estimates in India are prepared by ",
+                "options": [
+                    {
+                        "optionText": "Planning Commission ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Reserve Bank of India",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Central statistical organisation",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " Indian statistical Institute",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question": "The staple food of the Vedic Aryan was",
+                "options": [
+                    {
+                        "optionText": "  Barley and rice",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Milk and its products",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Rice and pulses",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Vegetables and fruits",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": " The tropic of cancer does not pass through which of these Indian states ?",
+                "options": [
+                    {
+                        "optionText": " Madhya Pradesh ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "West Bengal",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Rajasthan",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Odisha",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": " Fathometer is used to measure",
+                "options": [
+                    {
+                        "optionText": "Earthquakes ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Rainfall",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Ocean depth",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " Sound intensity",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The purest form of iron is ",
+                "options": [
+                    {
+                        "optionText": "  wrought iron",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " steel",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " pig iron ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " nickel steel",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The biggest public sector undertaking in the country is",
+                "options": [
+                    {
+                        "optionText": " Iron and steel Plants ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Roadways ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Railways ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Airways ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": " The working principle of a washing machine is",
+                "options": [
+                    {
+                        "optionText": "reverse osmosis ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "diffusion ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " centrifugation",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "dialysis ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": " Who is the author of the book 'Freedom Behind Bars '",
+                "options": [
+                    {
+                        "optionText": "Kiran Bedi ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Jawaharlal Nehru ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Nelson Mandela ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Sheikh Abdullah ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which river of India is called Vridha Ganga?",
+                "options": [
+                    {
+                        "optionText": "Krishna ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Godavari",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Kaveri",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Narmada",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sports quiz",
+        "bgColor" : "#ff9966",
+        "questions": [
+            {
+                "question": "Holkar Trophy is associated with which sport?",
+                "options": [
+                    {
+                        "optionText": "Bridge",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Hockey",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Football ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Badminton ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who is the first Indian woman to win an Asian Games gold in 400m run",
+                "options": [
+                    {
+                        "optionText": " M.L. Valsamma ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " P.T. Usha",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " Kamaljit Sandhu",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "K.Malleshwari",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Term Chinaman is related to which sports ? ",
+                "options": [
+                    {
+                        "optionText": "Football ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Hockey",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Golf",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Cricket",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "With which game does Davis Cup is associated ",
+                "options": [
+                    {
+                        "optionText": "Hockey ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Table Tennis ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Lawn Tennis ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Polo ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The first Indian to cross seven important seas by swimming ____ ? ",
+                "options": [
+                    {
+                        "optionText": "Amrendra Singh",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Bula Chaudhury ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Junko Taibei ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Yuri Gagarin ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "With which game does Santosh Trophy is associated ",
+                "options": [
+                    {
+                        "optionText": "Tennis ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Cricket ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "National Football ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Golf ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The 2017 Indian Premier League (IPL 2017) first match on 5 April, 2017 was held in ? ",
+                "options": [
+                    {
+                        "optionText": "Banglore ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Delhi ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Hyderabad ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Kolkata ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The National Game of Japan is ",
+                "options": [
+                    {
+                        "optionText": "Tennis ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Ice Hockey ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Karate ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Sumo wrestling ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "Which one of the following Cricketers has been declared by the ICC as 'Cricketer of the Twentieth Century ' ",
+                "options": [
+                    {
+                        "optionText": " Sachin Tendulkar ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Kapil Dev",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Rahul Dravid ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Anil Kumble ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Against which team did Virender Sehwag make his one day international debut ",
+                "options": [
+                    {
+                        "optionText": " New Zealand  ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Sri lanka ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Pakistan ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "South Africa ",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Science Quiz",
+        "bgColor" : "#ecffb3",
+        "questions": [
+            {
+                "question": "The blue colour of the clear sky is due to ",
+                "options": [
+                    {
+                        "optionText": " Diffraction of light ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Dispersion of light ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Reflection of light ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Refraction of light ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which one of the following types of waves are used in a night vision apparatus? ",
+                "options": [
+                    {
+                        "optionText": "Radio waves  ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Microwaves ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Infra-red waves ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "None of the above ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "What color does yellow and green make? ",
+                "options": [
+                    {
+                        "optionText": "Lime ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Ocean mist ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Maroon ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Tangerine ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The weight of an object will be minimum when it is placed at  ? ",
+                "options": [
+                    {
+                        "optionText": "  The North Pole ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "The South Pole ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "The Equator ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "The center of the Earth ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "SI unit of equivalent conductance ",
+                "options": [
+                    {
+                        "optionText": "ohm/cm ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Siemens m2/equivalent ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " Siemens/equivalent ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "mho/cm ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following is a non metal that remains liquid at room temperature  ? ",
+                "options": [
+                    {
+                        "optionText": "Chlorine ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Phosphorous ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Bromine ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Helium ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Nuclear sizes are expressed in a unit named ",
+                "options": [
+                    {
+                        "optionText": "Fermi ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Angstrom ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Newton ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Tesla ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The speed of light will be minimum while passing through ",
+                "options": [
+                    {
+                        "optionText": "water ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "vaccum ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "air ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "glass ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "An air bubble in water will act like a ",
+                "options": [
+                    {
+                        "optionText": "convex lens ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "convex mirror ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "concave lens ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "concave mirror ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Two electric bulbs marked 25W – 220V and 100W – 220V are connected in series to a 440Vsupply. Which of the bulbs will fuse? ",
+                "options": [
+                    {
+                        "optionText": "25 W ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "100 W ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Both ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Neither ",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Literature Quiz",
+        "bgColor" : "#ffe0b3",
+        "questions": [
+            {
+                "question": "Name That Author: Who wrote The Iliad? ",
+                "options": [
+                    {
+                        "optionText": "Euripides ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Beowulf ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Homer ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Virgil ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": " Who was the author of the famous storybook 'Alice's Adventures in Wonderland'? ",
+                "options": [
+                    {
+                        "optionText": " Rudyard Kipling ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "John Keats ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Lewis Carroll ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " H G Wells ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who wrote the famous 1855 poem 'The Charge of the Light Brigade'? ",
+                "options": [
+                    {
+                        "optionText": "Lord Alfred Tennyson ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Christopher Marlowe ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Johannes Gutenberg ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "René Descartes ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who wrote 'Where ignorance is bliss, it is folly to be wise'? ",
+                "options": [
+                    {
+                        "optionText": "Browning ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Marx ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Shakespeare ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Kipling ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Name the book which opens with the line 'All children, except one grew up'? ",
+                "options": [
+                    {
+                        "optionText": "The Railway Children ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Winnie the Poo ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Jungle book ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Peter Pan ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "Which is the first Harry Potter book? ",
+                "options": [
+                    {
+                        "optionText": " HP and the Goblet of Fire ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "HP and the Philosopher’s Stone ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "HP and the Chamber of Secrets ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "HP and the God of small Things ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": " In the book ‘the Lord of the Rings ‘, who or what is Bilbo? ",
+                "options": [
+                    {
+                        "optionText": "Dwarf ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Wizard ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Hobbit ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Troll ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Name That Author: Who wrote The Girl on the Train? ",
+                "options": [
+                    {
+                        "optionText": "A.J. Finn ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Sophie Hannah ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Paula Hawkins ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Ruth Ware ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which is NOT a poem by Emily Dickinson? ",
+                "options": [
+                    {
+                        "optionText": "“‘Hope’ is the thing with feathers” ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "“Because I could not stop for Death” ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " “Acquainted with the night” ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " “I felt a Funeral, in my Brain” ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "How many acts are in Romeo and Juliet? ",
+                "options": [
+                    {
+                        "optionText": "Two ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Three ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Four ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Five ",
+                        "correct": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "History Quiz",
+        "bgColor" : "#ff99cc",
+        "questions": [
+            {
+                "question": "The Saka Era was founded by  ",
+                "options": [
+                    {
+                        "optionText": " Kadphises I ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Kanishka ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " Alexander ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Menander ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Mahatma Gandhi's remark , ' A post-dated cheque on a crumbling bank' is regarding the proposal of ______ ",
+                "options": [
+                    {
+                        "optionText": "Simon Commission ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Cripps Mission ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Cabinet Mission ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Wavel Plan ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who composed the Gayatri Mantra ",
+                "options": [
+                    {
+                        "optionText": " Vishvamitra ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Vasishtha ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Indra ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Parikshit ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who first imposed Jizya Tax in India? ",
+                "options": [
+                    {
+                        "optionText": " Allaudin khilji ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Aurangzeb ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Mohammad Bin Qasim ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Qutb-ud-din Aibak ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "The first newspaper published in India in 1780 was ",
+                "options": [
+                    {
+                        "optionText": " The Bengal Gazette or Calcutta General Advertiser ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " The Calcutta Chronicle ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "The Madras Courier ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "The Bombay Herald ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which State is called the ' Cradle of Buddhism '? ",
+                "options": [
+                    {
+                        "optionText": "Sikkim ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Bihar ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Uttar Pradesh ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Madhya Pradesh ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who of the following was a contemporary of Gautama Buddha? ",
+                "options": [
+                    {
+                        "optionText": "Bhadrabahu ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Chandragupta Maurya ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Parsvanath ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Vardhaman Mahavira ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "Which one of the following four vedas contains an account of magical charms and spells ",
+                "options": [
+                    {
+                        "optionText": " Rigaveda",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Samaveda ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Yajurveda",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Atharvaveda ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "Which one of the following dynasties was ruling over North India at the time of Alexander's invasion ",
+                "options": [
+                    {
+                        "optionText": "Nanda ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Maurya ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Sunga",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Kanva ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which Party was founded by Subhash Chandra Bose in the Year 1939 after he broke away from the congress? ",
+                "options": [
+                    {
+                        "optionText": " Indian Freedom Party ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Azad Hind Fauj ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Revolutionary Front ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Forward Bloc ",
+                        "correct": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Famous Place Quiz",
+        "bgColor" : "#b3b3ff",
+        "questions": [
+            {
+                "question": "'Bagh', a village in Gwalior is famous for ",
+                "options": [
+                    {
+                        "optionText": "Sculptures ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Architecture ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Cave Painting ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "All of the above ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which places is said to be the cathedral city of india? ",
+                "options": [
+                    {
+                        "optionText": " Benaras ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Kancheepuram ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Madurai ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Bhubaneswar",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "The famous Rock Garden is located in which city? ",
+                "options": [
+                    {
+                        "optionText": "Jaipur ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Simla ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Lucknow ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Chandigarh ",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "The largest and the oldest museum of India is located in the state/union territory of ",
+                "options": [
+                    {
+                        "optionText": "New Delhi ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " West Bengal ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Uttar Pradesh ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Andhra Pradesh ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Smallest cricket stadium in the world by boundary? ",
+                "options": [
+                    {
+                        "optionText": " Carisbrook Stadium  ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Feroz Shah Kotla ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Melbourne Cricket Ground ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Sydney Cricket Stadium ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The world famous 'Khajuraho' sculptures are located in ",
+                "options": [
+                    {
+                        "optionText": "Gujarat ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Madhya Pradesh ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Orissa ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Maharashtra ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Which country has no cinema theaters? ",
+                "options": [
+                    {
+                        "optionText": " Saudi Arabia ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Iraq ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Pennsylvania ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "None of the above ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The famous Dilwara Temples are situated in ",
+                "options": [
+                    {
+                        "optionText": "Rajasthan ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " Uttar Pradesh",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Maharashtra ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Madhya Pradesh ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The International Rice Research Institute is located in ",
+                "options": [
+                    {
+                        "optionText": "Thailand  ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Malaysia",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Philippines",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Indonesia ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The world famous Ajanta caves are situated in ",
+                "options": [
+                    {
+                        "optionText": " Orissa ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Karnataka ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Maharashtra ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Madhya Pradesh ",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Political Quiz",
+        "bgColor" : "#ffb3b3",
+        "questions": [
+            {
+                "question": "Union Budget is always presented first in ________",
+                "options": [
+                    {
+                        "optionText": "The Lok Sabha",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "The Rajya Sabha",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Joint session of the Parliament",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Meeting of the Union Cabinet",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who proposed the Preamble before the Drafting Committee of the Constitution ",
+                "options": [
+                    {
+                        "optionText": " Jawaharlal Nehr ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " B.R. Ambedkar ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "B.N.Rau ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Mahatma Gandhi ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who is the guardian of fundamental Rights enumerated in Indian Constitution? ",
+                "options": [
+                    {
+                        "optionText": " Supreme Court  ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Parliament ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Constitution ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "President ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The first Law Officer of the Government of India is the ",
+                "options": [
+                    {
+                        "optionText": "Union Law Minister ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Secreatary, Ministry of Law ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Attorney-General for India ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Chief Justice of the Supreme Court ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The Constitution of India borrowed the scheme of Indian Federation from the constitution of ",
+                "options": [
+                    {
+                        "optionText": "USA  ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Canada",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "United Kingdom ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Ireland ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": " Right to property was removed from the list of Fundamental Rights during the rule of",
+                "options": [
+                    {
+                        "optionText": " Indhira Gandhi Government ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Morarji Desai Government ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Narasimha Rao Government",                    
+                         "correct": false
+                    },
+                    {
+                        "optionText": " Vajpayee Government",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "By virtue of which Act, Diarchy was introduced in India ",
+                "options": [
+                    {
+                        "optionText": " Indian Council Act, 1909 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Government of India Act, 1919 ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "Government of India Act, 1935 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Indian Independence Act, 1947 ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "'The Federal System with strong centre' has been borrowed by the Indian Constitution from ",
+                "options": [
+                    {
+                        "optionText": "USA ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Canada ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "UK ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "France ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The item ' Education' belongs to the  ",
+                "options": [
+                    {
+                        "optionText": "Union List ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " State List",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Concurrent List ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "  Residuary subjects",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Who was the Chairman of the Union Power Committee of Constituent Assembly of India? ",
+                "options": [
+                    {
+                        "optionText": "Sardar Vallabhbhai Patel ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Dr. B.R.Ambedkar ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Sir Alladi Krishnaswami Ayyar ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Pt. Jawaharlal Nehru ",
+                        "correct": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Important Days And Years Quiz",
+        "bgColor" : "#ffd9cc",
+        "questions": [
+            {
+                "question": "First tuesday of may is observed as ",
+                "options": [
+                    {
+                        "optionText": "Global family Day ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " World Asthma Day ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " World Immunization Day ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " International Human Solidarity Day ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "January 1 is observed as ",
+                "options": [
+                    {
+                        "optionText": "  Global family day",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "World red cross day ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " World telecommunication day ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "Common wealth day ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Journalist's Day was celebrated for the first time all over the country on ",
+                "options": [
+                    {
+                        "optionText": " Oct 1,1984 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Oct 8,1984",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Oct 20,1984 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " Oct 28,1984",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "question": "November 30 is observed as ______ ",
+                "options": [
+                    {
+                        "optionText": " Computer Security Day ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "United Nations Day for South-South Cooperation ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " International Cooperative Day ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " International Human Solidarity Day ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "October 24 is observed as",
+                "options": [
+                    {
+                        "optionText": "World Vegetarian Day  ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "United Nations Day ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "World Immunization Day ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "World Environment Day ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "World Blood Donar Day is observed on ___________ ",
+                "options": [
+                    {
+                        "optionText": " 14 - June ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "  24 - June",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "14 - November ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "24 - November ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "When is the ' World environment Day ' celebrated ",
+                "options": [
+                    {
+                        "optionText": "June 5 ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": " April 7",
+                        "correct": false
+                    },
+                    {
+                        "optionText": " October 24 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "None of the above ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "When was the first ' International Non-Smoking Day' observed all over the world ",
+                "options": [
+                    {
+                        "optionText": " 04.07.1988 ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "  08.02.1989",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "26.01.1950 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "28.01.1950 ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "The first-ever World Tuna Day (WTD) is observed by the United Nations (UN) on which date  ? ",
+                "options": [
+                    {
+                        "optionText": " May 2, 2017 ",
+                        "correct": true
+                    },
+                    {
+                        "optionText": "May 1, 2017 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "April 2, 2017 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "May 3, 2017 ",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "question": "United Nations adopted a charter of Economic Rights in the year ",
+                "options": [
+                    {
+                        "optionText": "1956 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "1964 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "1969 ",
+                        "correct": false
+                    },
+                    {
+                        "optionText": "1974",
+                        "correct": true
+                    }
+                ]
+            }
+        ]
+    }
+]
